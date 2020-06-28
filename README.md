@@ -1,2 +1,2 @@
 # TIES536
-TIES536 Harjoitukset
+Kurssin TIES536 Sulautettu internet harjoitukset.
